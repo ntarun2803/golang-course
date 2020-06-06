@@ -1,3 +1,9 @@
 package main
 import "fmt"
-fmt.Println
+
+func main(){
+
+	fmt.Println("Hello, World")
+	var name ="tarun narashiman";
+	fmt.Println(name)
+}
